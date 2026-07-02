@@ -1,6 +1,7 @@
 The GrabShorts Bookmarklet is designed to make downloading videos, music, and other online resources as fast and convenient as possible. Instead of copying and pasting URLs, you can jump directly to the download page with a single click.
 
 **Step 1: Create the GrabShorts Bookmarklet**
+
 [How to use GrabShorts Bookmarklet?](https://www.grabshorts.com/en/blog/how-to-use-grabshorts-bookmarklet)
 
 ```javascript
